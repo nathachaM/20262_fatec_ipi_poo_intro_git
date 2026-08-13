@@ -5,5 +5,5 @@ def menu():
          elif opcao == 1:
             print("Você escolheu Somar")
 
-
+        print("2. Subtrair")
 menu()
